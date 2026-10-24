@@ -1,0 +1,8 @@
+{
+  "name": "SummitSync Pro",
+  "description": "High-fidelity event operations and guest management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
